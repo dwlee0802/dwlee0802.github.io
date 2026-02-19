@@ -5,4 +5,5 @@ description: Recreation of Portal. Final project for TAC380.
 img: assets/img/portal_image.jpg
 importance: 5
 category: Gamedev
+permalink: assets/demo/portal/Lab12.html
 ---
