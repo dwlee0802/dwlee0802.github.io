@@ -447,7 +447,7 @@ ninja.data = [{
               window.location.href = "/projects/foxy-chicken/";
             },},{id: "projects-mom-please-respect-my-privacy",
           title: 'Mom, Please Respect My Privacy',
-          description: "Hide your stuff from mom. MEGA Newbies and Vets Gam Jam 2022 &#39;-&#39; Best Overall",
+          description: "Hide your stuff from mom. MEGA Newbies and Vets Gam Jam 2022 - Best Overall",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hide-your-stuff/";
             },},{id: "projects-improved-company-list",
