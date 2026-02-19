@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Dowon Lee",
+    "image": "",
     "email": "dwlee0802@gmail.com",
-    "summary": "Computer Science @ USC"
+    "summary": "Computer Science @ USC",
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
   },
-  "education": [
-    {
-      "institution": "University of Southern California",
-      "location": "Los Angeles, CA",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science"
-    }
-  ],
   "skills": [
     {
       "name": "Programming",
@@ -38,7 +38,7 @@
       ]
     }
   ],
-  "experience": [
+  "work": [
     {
       "name": "Networked Systems Lab",
       "position": "Lab assistant",
