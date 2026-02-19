@@ -5,5 +5,5 @@ description: Recreation of Portal in C++ without a game engine. Final project fo
 img: assets/img/portal_image.gif
 importance: 5
 category: Gamedev
-redirect: assets/demo/portal/Lab12.html
+redirect: /assets/demo/portal/Lab12.html
 ---
