@@ -457,7 +457,7 @@ ninja.data = [{
               window.location.href = "/projects/improved-company-list/";
             },},{id: "projects-portal",
           title: 'Portal',
-          description: "Recreation of Portal. Final project for TAC380.",
+          description: "Recreation of Portal in C++ without a game engine. Final project for TAC380.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/portal/";
             },},{id: "projects-probability-shooter",
