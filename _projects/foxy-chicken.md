@@ -9,7 +9,7 @@ category: GameJam
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=LfJGQZwwTGE&feature=youtu.be" 
+  src="https://www.youtube.com/embed/LfJGQZwwTGE" 
   title="Gameplay video" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
