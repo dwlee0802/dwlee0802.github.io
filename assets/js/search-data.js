@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -447,6 +447,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-foxy-chicken",
+          title: 'Foxy Chicken',
+          description: "Fox steals chicken eggs wearing chicken mask. GGJ 2026.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foxy-chicken/";
+            },},{id: "projects-mom-please-respect-my-privacy",
+          title: 'Mom, Please Respect My Privacy',
+          description: "Hide your stuff from mom. MEGA Newbies and Vets Gam Jam 2022 &#39;-&#39; Best Overall",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hide-your-stuff/";
+            },},{id: "projects-improved-company-list",
+          title: 'Improved Company List',
+          description: "Victoria 3 Mod to make searching companies easier. Solo project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/improved-company-list/";
+            },},{id: "projects-probability-shooter",
+          title: 'Probability Shooter',
+          description: "Top-down Roguelite shooter with unique shooting mechanics. Solo project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/probability_shooter/";
+            },},{id: "projects-super-auto-guns",
+          title: 'Super Auto Guns',
+          description: "WW2 themed Auto Battler, inspired by Super Auto Pets. Solo project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/super-auto-guns/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
