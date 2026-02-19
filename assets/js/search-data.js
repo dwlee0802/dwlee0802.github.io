@@ -455,6 +455,11 @@ ninja.data = [{
           description: "Victoria 3 Mod to make searching companies easier. Solo project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/improved-company-list/";
+            },},{id: "projects-portal",
+          title: 'Portal',
+          description: "Recreation of Portal. Final project for TAC380.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/portal/";
             },},{id: "projects-probability-shooter",
           title: 'Probability Shooter',
           description: "Top-down Roguelite shooter with unique shooting mechanics. Solo project.",
