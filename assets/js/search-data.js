@@ -459,7 +459,7 @@ ninja.data = [{
           title: 'Portal',
           description: "Recreation of Portal. Final project for TAC380.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/portal/";
+              window.location.href = "/assets/demo/portal/Lab12.html";
             },},{id: "projects-probability-shooter",
           title: 'Probability Shooter',
           description: "Top-down Roguelite shooter with unique shooting mechanics. Solo project.",
