@@ -6,3 +6,5 @@ img: assets/img/super-auto-guns-preview.gif
 importance: 2
 category: Gamedev
 ---
+
+<img src="assets/img/super-auto-guns-preview.gif" alt="game_image">
