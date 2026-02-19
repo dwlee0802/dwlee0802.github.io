@@ -7,4 +7,4 @@ importance: 1
 category: Gamedev
 ---
 
-<img src="assets/img/probability-shooter-preview.gif" alt="game_image">
+<img src="/assets/img/probability-shooter-preview.gif" alt="game_image">

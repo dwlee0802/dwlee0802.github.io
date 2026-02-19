@@ -7,9 +7,10 @@ importance: 5
 category: Gamedev
 ---
 
-<img src="assets/img/portal_image.jpg" alt="portal_image">
+<img src="/assets/img/portal_image.jpg" alt="portal_image">
+<br>
 <a href="/assets/demo/portal/Lab12.html" target="_blank">Playable demo</a>
-
+<br>
 Controls:
 - Movement: WASD
 - Jump: Space

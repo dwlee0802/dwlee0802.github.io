@@ -7,4 +7,6 @@ importance: 2
 category: Gamedev
 ---
 
-<img src="assets/img/super-auto-guns-preview.gif" alt="game_image">
+<img src="/assets/img/super-auto-guns-preview.gif" alt="game_image">
+<br>
+<a href="https://github.com/dwlee0802/SuperAutoGuns" target="_blank">GitHub</a>
