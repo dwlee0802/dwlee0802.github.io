@@ -9,4 +9,5 @@ category: GameJam
 
 <a href="https://gvolt.itch.io/hide-your-stuff" target="_blank">Playable on itch.io</a>
 <br>
+<br>
 Made the mom AI pathfinding logic and random graph traversal.

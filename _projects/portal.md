@@ -9,7 +9,9 @@ category: Gamedev
 
 <img src="/assets/img/portal_image.jpg" alt="portal_image">
 <br>
+<br>
 <a href="/assets/demo/portal/Lab12.html" target="_blank">Playable demo</a>
+<br>
 <br>
 Controls:
 - Movement: WASD

@@ -16,4 +16,8 @@ category: GameJam
   allowfullscreen>
 </iframe>
 <br>
+<br>
 <a href="https://rabbitkingdom.itch.io/foxy-chicken" target="_blank">Playable on itch.io</a>
+<br>
+<br>
+Made the player controls and main gameplay loop.
