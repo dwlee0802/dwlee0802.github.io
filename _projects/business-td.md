@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Business Tower Defense
-description: Tower defense game about maximizing profits.
+description: Tower defense game about maximizing profits. Solo project.
 img: assets/img/businessTD_preview.gif
-importance: 4
+importance: 5
 category: Gamedev
 ---
 
