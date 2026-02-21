@@ -447,6 +447,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-business-tower-defense",
+          title: 'Business Tower Defense',
+          description: "Tower defense game about maximizing profits.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/business-td/";
             },},{id: "projects-foxy-chicken",
           title: 'Foxy Chicken',
           description: "Fox steals chicken eggs wearing chicken mask. GGJ 2026.",
