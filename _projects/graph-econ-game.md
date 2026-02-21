@@ -3,7 +3,7 @@ layout: page
 title: Graph Econ Game
 description: Build efficient production networks to meet your production quota. Solo project.
 img: assets/img/graph-econ-game.jpg
-importance: 4
+importance: 3
 category: Gamedev
 ---
 
@@ -18,5 +18,6 @@ category: Gamedev
 
 #### Network efficiency
 - Set up item buses, hubs, and buffers for efficient use of the supply network.
+    - Building new roads is expensive - reuse as much as possible
 - Set up routing between nodes for different good types.
 - Balance between civilian and military production for funds/quota.
