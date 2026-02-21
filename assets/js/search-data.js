@@ -449,7 +449,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-business-tower-defense",
           title: 'Business Tower Defense',
-          description: "Tower defense game about maximizing profits.",
+          description: "Tower defense game about maximizing profits. Solo project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/business-td/";
             },},{id: "projects-foxy-chicken",
@@ -457,6 +457,11 @@ ninja.data = [{
           description: "Fox steals chicken eggs wearing chicken mask. GGJ 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/foxy-chicken/";
+            },},{id: "projects-graph-econ-game",
+          title: 'Graph Econ Game',
+          description: "Build efficient production networks to meet your production quota. Solo project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/graph-econ-game/";
             },},{id: "projects-mom-please-respect-my-privacy",
           title: 'Mom, Please Respect My Privacy',
           description: "Hide your stuff from mom. MEGA Newbies and Vets Gam Jam 2022 - Best Overall",
