@@ -11,6 +11,8 @@ Top-down 2D roguelite action game about tactical shooting with dual wield guns m
 
 <img src="/assets/img/probability-shooter-preview.gif" alt="game_image">
 
+<p><a href="https://dwlee0802.itch.io/gunnercat?secret=TA3UssxCocp94BU0cN0uXIfikBY" target="_blank">Demo on itch.io</a></p>
+
 ### Features
 #### Tactical Target Selection
 Use your bullets to their max efficiency by carefully choose your target. Consider aspects such as target HP, bullet DMG, target location, special bullet effects, and more to maximize your combat efficiency.  
