@@ -71,7 +71,8 @@
       "startDate": "Mar. 2025",
       "endDate": "Present",
       "highlights": [
-        "Designed and developed a game for Annenberg's website"
+        "Designed and developed a game for Annenberg's website",
+        "Implemented the player movement, UI, and a scalable system for multiple enemy types and upgrades"
       ]
     }
   ],
