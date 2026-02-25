@@ -19,6 +19,8 @@ category: Gamedev
 - Determine whether to invest further or cash out.
     - Enemy waves increases over time, requiring more investment for security.
     - Cash out and retreat when costs exceeds profits.
+- Total lines of code: 2577 lines
+- Made in Godot Engine 4 with GDScript
 
 ### Techincal Highlights
 **Procedural Generation**
