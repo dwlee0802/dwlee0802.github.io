@@ -39,5 +39,3 @@ category: Gamedev
     - When a node is notified that a link it is connected to has changed from occupied to available, it notifies the waiting items in its queue.
     - When an item is notified by its host node, it tries to ask for permission again from links.
 - This allowed not only better coordination and for occupancy changes to cascade throughout the graph, but also for busy-waiting for items to be removed, saving computation power.
-
-<img src="/assets/img/graph_econ_game_showcase.gif" alt="graph_econ_game_showcase.gif">
