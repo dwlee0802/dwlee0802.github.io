@@ -3,7 +3,7 @@ layout: page
 title: Graph Econ Game
 description: Build efficient production networks to meet your production quota. Solo project.
 img: assets/img/graph-econ-game.jpg
-importance: 3
+importance: 5
 category: Gamedev
 ---
 
