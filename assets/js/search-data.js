@@ -472,6 +472,11 @@ ninja.data = [{
           description: "Victoria 3 Mod to make searching companies easier. Solo project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/improved-company-list/";
+            },},{id: "projects-network-wars",
+          title: 'Network Wars',
+          description: "RTS about building efficient networks made in C++ with SDL",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/network-wars/";
             },},{id: "projects-portal",
           title: 'Portal',
           description: "Recreation of Portal in C++ without a game engine. Final project for TAC380.",
